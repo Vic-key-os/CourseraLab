@@ -1,2 +1,2 @@
 # CourseraLab
-Coursera Lab
+Coursera Lab for week 2 Data Science specialization
